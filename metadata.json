@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.7","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2024-01-18T07:27:55.414Z","userMetadata":{},"modelName":"Sampah kertas dan plastik","labels":["Kertas","Plastik","idle"],"imageSize":224}
